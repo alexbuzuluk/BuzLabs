@@ -1,0 +1,122 @@
+  163  ls
+  164  cd EmelGit/
+  165  ls
+  166  git pull
+  167  git init
+  168  git pull
+  169  git pull origin main
+  170  cd os-labs/
+  171  git pull
+  172  cd labs-2023/lab2/labdata2.log
+  173  LS
+  174  more labs-2023/lab2/labdata2.log
+  175  less labs-2023/lab2/labdata2.log
+  176  less labs-2023/lab2/labdata2.log
+  177  ls
+  178  less labs-2023/lab2/labdata2.log | cat punkt_3.txt | sed -n 1110,1115p
+  179  cat labs-2023/lab2/labdata2.log
+  180  cat labs-2023/lab2/labdata2.log | sed -n 1110,1115p
+  181  cat labs-2023/lab2/labdata2.log | sed -n 1110,1115p > punkt_3.txt
+  182  cat labs-2023/lab2/labdata2.log | sed -n 1110,1115p > /C/Buzgit/punkt_3.txt
+  183  cat -N labs-2023/lab2/labdata2.log | sed -n 1110,1115p > /C/Buzgit/punkt_3.txt
+  184  cat labs-2023/lab2/labdata2.log | sed -n -N 1110,1115p > /C/Buzgit/punkt_3.txt
+  185  cat -N labs-2023/lab2/labdata2.log | sed -n 1110,1115p > /C/Buzgit/punkt_3.txt
+  186  cat - N labs-2023/lab2/labdata2.log
+  187  cat labs-2023/lab2/labdata2.log | sed -n 1110,1115p > /C/Buzgit/punkt_3.txt
+  188  cat -n labs-2023/lab2/labdata2.log | sed -n 1110,1115p > /C/Buzgit/punkt_3.txt
+  189  cat -n labs-2023/lab2/labdata2.log | sed -n 1110,1115p > /C/Buzgit/Lab2_punkt_3.txt
+  190  cat -n labs-2023/lab2/labdata2.log | sed -n 1110,1115p > /C/Buzgit/Lab2_punkt_4_zadanie.txt
+  191  cd /C/BuzGit/
+  192  mkdir Joker
+  193  cd Joker/
+  194  mkdir Artur Flexit
+  195  mkdir "Artur Flexit"
+  196  mkdir "Tomas is farther Batman"
+  197  mkdir "#BlackWoman"
+  198  cd Artur\ Flexit/
+  199  cd ..
+  200  cd ..
+  201  rmdir Joker/
+  202  cd Joker/
+  203  rmdir Joker/
+  204  rmdir Joker
+  205* cd .
+  206  rmdir /Joker
+  207  mkdir Venom
+  208  cd Venom/
+  209  mkdir Hero-man
+  210  mkdir Hero-alien
+  211  mkdir "Love girl"
+  212  cd Hero-man/
+  213  mkdir info.txt
+  214  cat > info.txt/
+  215  cat > info.txt
+  216  cat > info.txt
+  217  history
+  218  cat > info.txt
+  219  cd ..
+  220  cd Hero-alien/
+  221  cat > info.txt
+  222  cat > info.txt
+  223  cd ..
+  224  cd Love\ girl/
+  225  cat > info.txt
+  226  cd ..
+  227  mkdir Villains
+  228  cat > info.txt
+  229  cd ..
+  230  cat > punkt_5
+  231  cat /Venom/Hero-man/info.txt >> punkt_5
+  232  cd Venom/Villains/
+  233  cat > info.txt
+  234  cd ..
+  235  cd ..
+  236  cat /Venom/Hero-man/info.txt >> punkt_5
+  237* cat /Venom/Hero-man/info.t
+  238  ls
+  239  cat Venom/Hero-man/info.txt >> punkt_5.txt
+  240  cat > punkt_5.txt
+  241  cat Venom/Hero-man/info.txt >> punkt_5.txt
+  242  cat > punkt_5.txt
+  243  cat Venom/Hero-man/info.txt >> punkt_5.txt
+  244  cat > punkt_5.txt
+  245  cat > punkt_5.txt
+  246  cat > punkt_5.txt
+  247  cat > punkt_5.txt
+  248  cat > punkt_5.txt
+  249  cat Venom/Hero-man/info.txt >> punkt_5.txt
+  250  cat > punkt_5.txt
+  251  cat Venom/Hero-man/info.txt >> punkt_5.txt
+  252  cat >> punkt_5.txt
+  253  cat Venom/Hero-alien/info.txt >> punkt_5.txt
+  254  cat >> punkt_5.txt
+  255  cat Venom/Love\ girl/info.txt >> punkt_5.txt
+  256  cat >> punkt_5.txt
+  257  cat Venom/Villains/info.txt >> punkt_5.txt
+  258  cat > punkt_5.txt
+  259  cat > punkt_5.txt
+  260  cat Venom/Hero-man/info.txt >> punkt_5.txt
+  261  cat > punkt_5.txt
+  262  cat Venom/Hero-man/info.txt >> punkt_5.txt
+  263  cat > punkt_5.txt
+  264  cat Venom/Hero-man/info.txt >> punkt_5.txt
+  265  cat >> punkt_5.txt
+  266  cat Venom/Hero-alien/info.txt >> punkt_5.txt
+  267  cat >> punkt_5.txt
+  268  cat Venom/Love\ girl/info.txt >> punkt_5.txt
+  269  cat >> punkt_5.txt
+  270  cat Venom/Villains/info.txt >> punkt_5.txt
+  271  cd Venom/Hero-man/
+  272  cat > info.txt
+  273  cd ..
+  274  cd ..
+  275  cat > punkt_5.txt
+  276  cat Venom/Hero-man/info.txt >> punkt_5.txt
+  277  cat >> punkt_5.txt
+  278  cat Venom/Hero-alien/info.txt >> punkt_5.txt
+  279  cat >> punkt_5.txt
+  280  cat Venom/Love\ girl/info.txt >> punkt_5.txt
+  281  cat >> punkt_5.txt
+  282  cat Venom/Villains/info.txt >> punkt_5.txt
+  283  history
+
