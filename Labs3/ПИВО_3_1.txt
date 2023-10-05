@@ -1,0 +1,7 @@
+A-06-20;DavydovAlD;2023;22;5
+A-06-20;DavydovAlD;2023;7;3
+A-06-20;DavydovAlD;2023;13;4
+A-06-20;DavydovAlD;2023;14;4
+A-06-20;DavydovAlD;2023;12;3
+A-06-20;DavydovAlD;2023;3;3
+A-06-20;DavydovAlD;2023;18;5
